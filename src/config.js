@@ -1,7 +1,7 @@
 
 const config = {
   api: {
-    API_BASE_URL: "http://localhost:8080/",
+    API_BASE_URL: "https://deloy-backend-busapp.onrender.com/api/bus-station/",
     ROUTER_BASE_NAME: null,
   },
   app: {
@@ -10,3 +10,4 @@ const config = {
 };
 
 export default config;
+
